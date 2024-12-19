@@ -2,7 +2,13 @@
 
 ## 시연 영상 (클릭 👇)
 
-[![Video Label](http://img.youtube.com/vi/OnH8ScQYvCw/0.jpg)](https://www.youtube.com/watch?v=OnH8ScQYvCw)
+[![Video Label](http://img.youtube.com/vi/OnH8ScQYvCw/0.jpg)](https://www.youtube.com/watch?v=OnH8ScQYvCw) 
+
+<a href="https://www.youtube.com/watch?v=OnH8ScQYvCw" target="_blank">
+  <img src="http://img.youtube.com/vi/OnH8ScQYvCw/0.jpg" 
+       alt="Video Label" 
+       style="width: 600px; height: auto;"/>
+</a>
 
 ---
 
